@@ -30,7 +30,7 @@ This paper proposes an **improved Minimum Output Variance Filtered Reference LMS
 
 ## Citation:
 If you use or reference this work, please cite it as:  
-**J. Ji, D. Shi, X. Shen, Z. Luo, W.-S. Gan, Implementation of minimum output variance filtered reference least mean square algorithm with optimal time-varying penalty factor estimate to overcome output saturation, Applied Acoustics, 2025.**
+**J. Ji, D. Shi, X. Shen, Z. Luo, and W.-S. Gan, "Implementation of minimum output variance filtered reference least mean square algorithm with optimal time-varying penalty factor estimate to overcome output saturation," Applied Acoustics, vol. 231, 2025, doi: 10.1016/j.apacoust.2024.110473.**
 
 ---
 
